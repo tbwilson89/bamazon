@@ -2,9 +2,9 @@
 
 ## Overview
 
-An Amazon clone made in Node.js and using a MySQL database to create, read and update an inventory system. Initial startup of the program gives the user the option to either shop or execute manager actions.
-
 ![Initial Screen](/images/startup.PNG)
+
+An Amazon clone made in Node.js and using a MySQL database to create, read and update an inventory system. Initial startup of the program gives the user the option to either shop or execute manager actions.
 
 ### Shopping
 
